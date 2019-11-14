@@ -1,3 +1,13 @@
+如何启动项目看效果？
+```bash
+# 启动 nodejs web 服务器
+nodemon index.js
+
+# 启动一个 web 服务器，看前端页面
+http-server web
+```
+
+
 # CROS 跨域问题详解
 
 总结一下这篇文章的大概内容？
